@@ -1,187 +1,67 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", Bein Sport 1
-https://m3u-editor.com/serve/bacanternatetv/349190280
+https://www.vidio.com/videos/1336817/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", BEINS SPORT INET LOW
-https://m3u-editor.com/serve/bacanternatetv/349190281
+http://5.183.209.211:25461/penang172/penang172/6581?token=TRVcBxJZQ1wUAlYFBQBTDgdaVAdTBQBUAl8PWwNeW1MEAwwAWAEEUVBGShMXRhNcVg9oDVEQClUHXghOFE0QBkRoXQJDC0NXAldUE0gQFVBaBxVeBAQCVARUC1IBDk9BRl5QRFsTUFAOXFcTSBAEQUMHRQpUXm8HVxBQAVMaWQ1DW1hKQ14POVIBC1AKVkMDFVMVSBdbQxMQXFcXWlRPQVReQBQARQREDAoTXQgeQ1pYF1kQR0sSWRAvfUAaGgYbQlJaFQheD0QMRhJCRh5DUEQ9RQFGRkIGUwtcEBQCQVMUGxYLAEk+BVkKCFQHRghWWREVXhcHEk8QC1YMX0wMEWlHXQJDC0NXAFxSCEZP
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", ESPN BRAZIL
-https://m3u-editor.com/serve/bacanternatetv/349190282
+https://e10.cdnfoxtv.me/ingestbr/espnbr/master.m3u8
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", BEIN SPORT FRANCE 1
-https://m3u-editor.com/serve/bacanternatetv/349190283
+https://r9uxprta46.azcdn107.net:8443/hls/kq2w71id.m3u8?s=HuUMZt2K2U0VvKHzNJUCXA&e=1625603852
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", BBC SPORT
-https://m3u-editor.com/serve/bacanternatetv/349190284
+https://nl1.streamlive.to:456/freeabr/8ak31usuvlb81qy/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDIxIDg6MTQ6MjIgUE0maGFzaF92YWx1ZT01b05XYm9JZFNGN2RZM1pEYWFmRGV3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpZD03NTUxMw==
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png" group-title="OLIMPIADE 2020 JAPAN", SPORT TV LIVE
-https://m3u-editor.com/serve/bacanternatetv/349190285
+https://r9uxprta46.azcdn107.net:8443/hls/walxjawfo5x.m3u8?s=jwuP9KP9Rm8PYxbmiS2OAg&e=1625601560
 #EXTINF: -1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/03/sportv1-590x590.jpg" group-title="OLIMPIADE 2020 JAPAN", SPORT TV BRAZIL
-https://m3u-editor.com/serve/bacanternatetv/349190286
+https://r9uxprta46.azcdn107.net:8443/hls/8uivez2xwc4h8.m3u8?s=0YT77UhQSow8AasGuQTL0g&e=1625604176
 #EXTINF: -1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/03/sportv1-590x590.jpg" group-title="OLIMPIADE 2020 JAPAN", TV SPORT UKRAINA HD
-https://m3u-editor.com/serve/bacanternatetv/349190287
+https://barsportbar.com/lba/MTE5YWZjMWJhYmVkMzgyOGM2ZDNhNWE5YzI1NmY0MTQ=/g3/ukrfoot1.m3u8?token=MTE5YWZjMWJhYmVkMzgyOGM2ZDNhNWE5YzI1NmY0MTQ=&id=YzVhM2ZjYWY0NzkwZjhiYzU4NWEzZmIwMTc3YmVlYjU=&vip=1625575546&dip=ZGJlODE4NWNiNGY0MGFlYmJlYmJhNjg4MTJlNTgyMmY=&pip=NTJmMmRhY2NhOWY0ODQwZWJkZDZhOGE2NTYyZWFmZTY=&hip=ODQzNjI3ZTZkN2UxZDBiNThiN2FjNDk2YTc4MWU3MjY=
 #EXTINF: -1 tvg-logo="data:image/jpeg;base64,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" group-title="OLIMPIADE 2020 JAPAN", SKYSPORT UNO
-https://m3u-editor.com/serve/bacanternatetv/349190288
+https://r9uxprta46.azcdn107.net:8443/hls/xsezbh3muyxz.m3u8?s=-21fd_kFynJbM5ZCuePW_A&e=1625602647
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", Bein Sport EXTRA
-https://m3u-editor.com/serve/bacanternatetv/349190289
+https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", Bein Sport 1Max
-https://m3u-editor.com/serve/bacanternatetv/349190290
+http://b.wnbouhagsa.xyz/live/6262622200/index.m3u8?
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", BEIN SPORT EURO 1
-https://m3u-editor.com/serve/bacanternatetv/349190291
+http://tropical.webhop.info:8079/live/u4dxYZ0i1i/zEQlfyWs8K/4764.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/1756662/316725040.jpg" group-title="OLIMPIADE 2020 JAPAN", TOLOA ESPN SPORT
-https://m3u-editor.com/serve/bacanternatetv/349190292
+http://stream2.grandma.fit/fs2.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", ITV PORTAL HD
-https://m3u-editor.com/serve/bacanternatetv/349190293
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main300.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", PRIVA HD
-https://m3u-editor.com/serve/bacanternatetv/349190294
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", EURO SPORT CHANNEL
-https://m3u-editor.com/serve/bacanternatetv/349190295
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", SPORT TV TOLOA 2
-https://m3u-editor.com/serve/bacanternatetv/349190296
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", BBC SPORT
-https://m3u-editor.com/serve/bacanternatetv/349190297
+http://sportportal4.akamaized.net/hls/live/702647/itvlive/ITV4PORTAL2/master_Main600.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", TVP Sport TOLOA HD 4
-https://m3u-editor.com/serve/bacanternatetv/349190298
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", TV MATIC SPORT
-https://m3u-editor.com/serve/bacanternatetv/349190299
+http://cdn.tvmatic.net/sport.m3u8
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", beIN SPORTS 5
-https://m3u-editor.com/serve/bacanternatetv/349190300
+http://tv.hero.iptv.uno:80/LgfWqtZIv782948/75Ll2U9zYa0s539/14987
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", beIN SPORTS 6
-https://m3u-editor.com/serve/bacanternatetv/349190301
+http://tv.hero.iptv.uno:80/LgfWqtZIv782948/75Ll2U9zYa0s539/14989
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", beIN SPORTS 7
-https://m3u-editor.com/serve/bacanternatetv/349190302
+http://tv.hero.iptv.uno:80/LgfWqtZIv782948/75Ll2U9zYa0s539/14991
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", beIN SPORTS 8
-https://m3u-editor.com/serve/bacanternatetv/349190303
+http://tv.hero.iptv.uno:80/LgfWqtZIv782948/75Ll2U9zYa0s539/14993
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", SPORT TV
-https://m3u-editor.com/serve/bacanternatetv/349190304
+https://hg-n2.dotice.me/plyvivo/hu10bevufiyiru40ne40/chunklist.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", TSN
-https://m3u-editor.com/serve/bacanternatetv/349190305
+https://sec-suhe-110.tve-linear-cgcy1-cgcy1.cdn.shaw.ca/TSN5HBO_HD_MPLS_65165_2_4967004169251551163/track-video-repid-root_video0-tc-0-enc-cenc-frag-811954331.mp4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="OLIMPIADE 2020 JAPAN", TV FS1 BRAZIL
-https://m3u-editor.com/serve/bacanternatetv/349190306
+http://164.68.124.111/fs1.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="OLIMPIADE 2020 JAPAN", ESPN 2 SPORT
-https://m3u-editor.com/serve/bacanternatetv/349190307
+http://164.68.124.111/espn2.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjGdi_2U6UNqf3_PvJDhwvbFhxT-gYEGIIEi_iJ48QVc3VUZewI-T9PnSrrTeye1cmUwE&usqp=CAU" group-title="OLIMPIADE 2020 JAPAN", TV FS 2 SPORT
-https://m3u-editor.com/serve/bacanternatetv/349190308
+http://stream2.grandma.fit/fs2.m3u8?token=null
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="OLIMPIADE 2020 JAPAN", Astro Super Sport 1
-https://m3u-editor.com/serve/bacanternatetv/349190309
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF: -1 group-title="OLIMPIADE 2020 JAPAN", Champions TV 3 _VIDIO
-https://m3u-editor.com/serve/bacanternatetv/349190310
-#EXTINF: -1 group-title="FTA", RCTI 3
-https://m3u-editor.com/serve/bacanternatetv/349196058
-#EXTINF: -1 group-title="FTA", RCTI 2
-https://m3u-editor.com/serve/bacanternatetv/349196057
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/rcti.png" group-title="FTA", RCTI
-https://m3u-editor.com/serve/bacanternatetv/349190311
+https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=6-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-id="mnctv" tvg-logo="http://kamiselaluada.com/img/mnctv.png" group-title="FTA", MNCTV
-https://m3u-editor.com/serve/bacanternatetv/349190312
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="FTA", GTV
-https://m3u-editor.com/serve/bacanternatetv/349190313
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="FTA", iNEWS
-https://m3u-editor.com/serve/bacanternatetv/349190314
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/nasatv.png" group-title="FTA", NASA TV
-https://m3u-editor.com/serve/bacanternatetv/349190315
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/magnatv.png" group-title="FTA", Magna TV
-https://m3u-editor.com/serve/bacanternatetv/349190316
-#EXTINF: -1 tvg-id="trans7" tvg-logo="http://kamiselaluada.com/img/trans7.png" group-title="FTA", TRANS 7
-https://m3u-editor.com/serve/bacanternatetv/349190317
-#EXTINF: -1 tvg-id="transtv" tvg-logo="http://kamiselaluada.com/img/transtv.png" group-title="FTA", TRANS TV
-https://m3u-editor.com/serve/bacanternatetv/349190318
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnnindo.png" group-title="FTA", CNN INDONESIA
-https://m3u-editor.com/serve/bacanternatetv/349190319
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cnbcindonesia.png" group-title="FTA", CNBC INDONESIA
-https://m3u-editor.com/serve/bacanternatetv/349190320
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="FTA", METRO TV
-https://m3u-editor.com/serve/bacanternatetv/349190321
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/bsworld.png" group-title="FTA", BERITA SATU WORLD
-https://m3u-editor.com/serve/bacanternatetv/349190322
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/jakartaglobenews.png" group-title="FTA", JAKARTA GLOBE NEWS
-https://m3u-editor.com/serve/bacanternatetv/349190323
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/rri.png" group-title="FTA", RRI NET
-https://m3u-editor.com/serve/bacanternatetv/349190324
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/jitv.png" group-title="FTA", JITV
-https://m3u-editor.com/serve/bacanternatetv/349190325
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/ntv.png" group-title="FTA", Nusantara TV
-https://m3u-editor.com/serve/bacanternatetv/349190326
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="FTA", JTV
-https://m3u-editor.com/serve/bacanternatetv/349190327
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="FTA", CNA
-https://m3u-editor.com/serve/bacanternatetv/349190328
-#EXTINF: -1 tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="FTA", ARIRANG
-https://m3u-editor.com/serve/bacanternatetv/349190329
-#EXTINF: -1 group-title="FTA", CNN INDNESIA
-https://m3u-editor.com/serve/bacanternatetv/349190330
-#EXTINF: -1 group-title="FTA", TVRI SPORT
-https://m3u-editor.com/serve/bacanternatetv/349190331
-#EXTINF: -1 group-title="FTA", RTV
-https://m3u-editor.com/serve/bacanternatetv/349190332
-#EXTINF: -1 group-title="FTA", INDOSIAR
-https://m3u-editor.com/serve/bacanternatetv/349190333
-#EXTINF: -1 group-title="FTA", ANTV
-https://m3u-editor.com/serve/bacanternatetv/349190334
-#EXTINF: -1 group-title="FTA", NET TV
-https://m3u-editor.com/serve/bacanternatetv/349190335
-#EXTINF: -1 group-title="FTA", DAAI TV
-https://m3u-editor.com/serve/bacanternatetv/349190336
-#EXTINF: -1 group-title="FTA", TVRI
-https://m3u-editor.com/serve/bacanternatetv/349190337
-#EXTINF: -1 group-title="FTA", ALZAJERA TV
-https://m3u-editor.com/serve/bacanternatetv/349190338
-#EXTINF: -1 group-title="FTA", TVONE
-https://m3u-editor.com/serve/bacanternatetv/349190339
-#EXTINF: -1 group-title="Channel Film", Celestial Movies
-https://m3u-editor.com/serve/bacanternatetv/349190340
-#EXTINF: -1 group-title="Channel Film", Trill
-https://m3u-editor.com/serve/bacanternatetv/349190341
-#EXTINF: -1 group-title="Channel Film", ONE JAPAN
-https://m3u-editor.com/serve/bacanternatetv/349190342
-#EXTINF: -1 group-title="Channel Film", BLUE ENTERTAIMENT
-https://m3u-editor.com/serve/bacanternatetv/349190343
-#EXTINF: -1 group-title="Channel Film", HITS TV
-https://m3u-editor.com/serve/bacanternatetv/349190344
-#EXTINF: -1 group-title="Channel Film", GOLF TV
-https://m3u-editor.com/serve/bacanternatetv/349190345
-#EXTINF: -1 group-title="Channel Film", DIVA
-https://m3u-editor.com/serve/bacanternatetv/349190346
-#EXTINF: -1 group-title="Channel Film", TV N
-https://m3u-editor.com/serve/bacanternatetv/349190347
-#EXTINF: -1 group-title="Channel Film", TV N MOVIES
-https://m3u-editor.com/serve/bacanternatetv/349190348
-#EXTINF: -1 group-title="Channel Film", BLUE ANT ENTERTAIMENT
-https://m3u-editor.com/serve/bacanternatetv/349190349
-#EXTINF: -1 group-title="Channel Film", ANIMAX TV
-https://m3u-editor.com/serve/bacanternatetv/349190350
-#EXTINF: -1 group-title="Channel Film", AXN
-https://m3u-editor.com/serve/bacanternatetv/349190351
-#EXTINF: -1 group-title="Channel Film", DW English
-https://m3u-editor.com/serve/bacanternatetv/349190352
-#EXTINF: -1 group-title="Channel Film", CCTV+4  CHINA
-https://m3u-editor.com/serve/bacanternatetv/349190353
-#EXTINF: -1 group-title="Channel Film", ZEE BIOSKOP
-https://m3u-editor.com/serve/bacanternatetv/349190354
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/482313/83104775.jpeg" group-title="AudY Sport Live", TENNIS AL Varo
-https://m3u-editor.com/serve/bacanternatetv/349190355
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/482313/83104776.jpeg" group-title="AudY Sport Live", Tennis  AlFatih 2
-https://m3u-editor.com/serve/bacanternatetv/349190356
-#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="AudY Sport Live", TENNIS ESPN
-https://m3u-editor.com/serve/bacanternatetv/349190357
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911258.jpeg" group-title="CCTV BADILAG", CCTV PA Soasio PTSP
-https://m3u-editor.com/serve/bacanternatetv/349190358
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911259.jpeg" group-title="CCTV BADILAG", CCTV PA SOASIO LOBI DEPAN
-https://m3u-editor.com/serve/bacanternatetv/349190359
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911260.jpeg" group-title="CCTV BADILAG", CCTV PA TOBELO PTSP
-https://m3u-editor.com/serve/bacanternatetv/349190360
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911261.jpeg" group-title="CCTV BADILAG", CCTV PA MOROTAI LOBI DEPAN
-https://m3u-editor.com/serve/bacanternatetv/349190361
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911262.png" group-title="CCTV BADILAG", CCTV PA BANJAR LOBI DEPAN
-https://m3u-editor.com/serve/bacanternatetv/349190362
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911263.png" group-title="CCTV BADILAG", CCTV PA BANJAR  PTSP
-https://m3u-editor.com/serve/bacanternatetv/349190363
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911264.png" group-title="CCTV BADILAG", CCTV PA LUWUK LOBI DEPAN
-https://m3u-editor.com/serve/bacanternatetv/349190364
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911265.png" group-title="CCTV BADILAG", CCTV PA LUWUK PTSP
-https://m3u-editor.com/serve/bacanternatetv/349190365
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911888.png" group-title="CCTV BADILAG", PA TERNATE  LOBI
-https://m3u-editor.com/serve/bacanternatetv/349190366
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/53a0e180-8f95-11ea-9ee3-910e3ad35751/555060/94911889.png" group-title="CCTV BADILAG", PA TERNATE PTSP
-https://m3u-editor.com/serve/bacanternatetv/349190367
-#EXTINF: -1 group-title="THE MOVIE TOLOA", RED HBO
-https://m3u-editor.com/serve/bacanternatetv/349190368
-#EXTINF: -1 group-title="THE MOVIE TOLOA", HBO SIGNATURE
-https://m3u-editor.com/serve/bacanternatetv/349190369
-#EXTINF: -1 group-title="THE MOVIE TOLOA", HBO
-https://m3u-editor.com/serve/bacanternatetv/349190370
+https://moegi.akamaized.net/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
