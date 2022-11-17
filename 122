@@ -1,6 +1,10 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", Bein Sport 1
 https://www.vidio.com/videos/1336817/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", Bein Sport 1
+http://n7.yacinelivetv.com/live/4440100/index.m3u8?t=4uO1JFnw-Gsj6rjMwa8GsQ&e=1668676870
+#EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", Bein Sport 1
+http://n17.yacinelivetv.com/live/5540280/index.m3u8?t=9dVRbZcmCpnnIajI1YQj5Q&e=1668678374
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", BEINS SPORT INET LOW
 http://5.183.209.211:25461/penang172/penang172/6581?token=TRVcBxJZQ1wUAlYFBQBTDgdaVAdTBQBUAl8PWwNeW1MEAwwAWAEEUVBGShMXRhNcVg9oDVEQClUHXghOFE0QBkRoXQJDC0NXAldUE0gQFVBaBxVeBAQCVARUC1IBDk9BRl5QRFsTUFAOXFcTSBAEQUMHRQpUXm8HVxBQAVMaWQ1DW1hKQ14POVIBC1AKVkMDFVMVSBdbQxMQXFcXWlRPQVReQBQARQREDAoTXQgeQ1pYF1kQR0sSWRAvfUAaGgYbQlJaFQheD0QMRhJCRh5DUEQ9RQFGRkIGUwtcEBQCQVMUGxYLAEk+BVkKCFQHRghWWREVXhcHEk8QC1YMX0wMEWlHXQJDC0NXAFxSCEZP
 #EXTINF: -1 tvg-logo="https://picon-13398.kxcdn.com/beinsports2hd.jpg" group-title="OLIMPIADE 2020 JAPAN", ESPN BRAZIL
